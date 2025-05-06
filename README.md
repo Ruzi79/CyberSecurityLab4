@@ -52,6 +52,8 @@ Exploitability: Exploit Available: false. There is currently no known public exp
 
 Suggested fixes: Reconfigure the affected application if possible to avoid use of weak ciphers.
 
+![image](https://github.com/user-attachments/assets/ea71bde2-0489-4596-a6a8-ed24d4268c4d)
+
 3. Repeat with OpenVAS
 
    ![image](https://github.com/user-attachments/assets/29767ead-5c46-4dc8-b9fb-2cd091a7c7c6)
